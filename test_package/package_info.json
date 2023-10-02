@@ -1,0 +1,7 @@
+{
+    "name":"test",
+    "description":"first testing package",
+    "version":"1.0.0",
+    "creator":"me",
+    "main":"./package.lua"
+}
